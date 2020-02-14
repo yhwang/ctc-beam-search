@@ -1,0 +1,29 @@
+{
+  "name": "ctc-beam-search",
+  "version": "0.1.0",
+  "description": "Implement Connectionist Temporal Classificiation(CTC) beam search in JavaScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhwang/beam-search.git"
+  },
+  "keywords": [
+    "CTC",
+    "beam",
+    "search"
+  ],
+  "author": "yh.wang@ibm.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yhwang/beam-search/issues"
+  },
+  "homepage": "https://github.com/yhwang/beam-search#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.17",
+    "tslint": "^5.20.1",
+    "typescript": "3.5.3"
+  }
+}
