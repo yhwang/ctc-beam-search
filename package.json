@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yhwang/beam-search.git"
+    "url": "git+https://github.com/yhwang/ctc-beam-search.git"
   },
   "keywords": [
     "CTC",
@@ -18,9 +18,9 @@
   "author": "yh.wang@ibm.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/yhwang/beam-search/issues"
+    "url": "https://github.com/yhwang/ctc-beam-search/issues"
   },
-  "homepage": "https://github.com/yhwang/beam-search#readme",
+  "homepage": "https://github.com/yhwang/ctc-beam-search#readme",
   "devDependencies": {
     "@types/node": "^12.12.17",
     "tslint": "^5.20.1",
